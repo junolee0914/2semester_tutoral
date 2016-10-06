@@ -10,6 +10,6 @@ void fou()
 
 void main()
 {
-	printf("Hello World v1.3 \n");
-	printf("- - - - - - - -  \n");
+	printf("Hello World v1.4 \n");
+	printf("Hello Github!    \n");
 }
