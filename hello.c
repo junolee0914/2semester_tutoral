@@ -2,7 +2,6 @@
 
 void main()
 {
-	printf("Hello! \n");
-	printf("World! \n");
-	printf("NEW testing 1 \n");
+	printf("Hello World v1.3 \n");
+	printf("- - - - - - - -  \n");
 }
